@@ -22,7 +22,14 @@ ul {
   margin-right: auto;
 }
 /* Small */
-@media (min-width: 768px) 
+@media (min-width: 768px) {
     .container {
       width: 750px;
     }
+}
+/* Medium */
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
