@@ -961,3 +961,14 @@ header nav .form i {
   width: fit-content;
   margin: 20px auto;
 }
+.footer .social-icons i {
+  padding: 10px 15px;
+}
+.footer .copyright {
+  margin-top: 60px;
+}
+.footer .copyright span {
+  font-weight: bold;
+  color: var(--main-color);
+}
+/* End Footer */
